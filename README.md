@@ -9,7 +9,7 @@
 
 > 尽量不要使用在线编辑器，因为大多数临时在线编辑器都无法保存你的代码，而形成有条理的代码存储习惯是必要的。
 ## 教程索引目录
-0. 注释 (Comments)
+0. 编程基本概念概述 (Fundamental Concepts of Coding)
 1. 基本数据类型与变量类型 (Basic Data Types & Variable Types)
 2. 输入与输出 (Input and Output)
 3. 条件语句与循环结构 (Conditions and Loops)
