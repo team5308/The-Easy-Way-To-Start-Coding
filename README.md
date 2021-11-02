@@ -8,6 +8,11 @@
 由于本教程将同时使用 **Python** 和 **Java** 进行代码演示，你将同时需要Python和Java的本地环境。
 
 > 尽量不要使用在线编辑器，因为大多数临时在线编辑器都无法保存你的代码，而形成有条理的代码存储习惯是必要的。
+
+另外，我强烈推荐使用VSCode作为代码的本地开发环境。[> 前往下载VSCode](https://code.visualstudio.com/)
+<br>而本地环境的配置问题，由于这篇教程将不作讨论，大家可以参考网上的博客和教程，配置成功的条件以代码可以正常运行为标准。
+> Python需要前往官网下载python的安装包，Java则需要安装对应版本的jdk。
+
 ## 教程索引目录
 0. 编程基本概念概述 (Fundamental Concepts of Coding)
 1. 基本数据类型与变量类型 (Basic Data Types & Variable Types)
